@@ -1,5 +1,7 @@
 # SelfCommit
 ## Phase 1: Planning
+
+[8/4/2025 - Tuesday]
 - My idea is to built a self tracking routine app that have the contribution activity like the GitHub system. But instead of coding and open source contribution, it is about contribution to ourselves. Users can track the activity or achievement that they had done or achieved each day.
 - As for the section:
   1. Dashboard
